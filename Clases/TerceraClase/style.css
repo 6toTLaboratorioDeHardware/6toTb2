@@ -1,0 +1,15 @@
+img{
+  	width: 100%;
+  	height: 80px;
+}
+
+
+#Mid{
+	background-image: url(Img/Mid.png);
+	background-size: cover;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+#Texto{
+	font-size: 10px;
+}
